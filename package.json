@@ -1,31 +1,34 @@
 {
-  "name": "wanted-2025-2-challenge",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/himprover/wanted-2025-2-challenge.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/himprover/wanted-2025-2-challenge/issues"
-  },
-  "homepage": "https://github.com/himprover/wanted-2025-2-challenge#readme",
-  "dependencies": {
-    "next": "^13.5.8",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
-    "@types/node": "^22.10.10",
-    "@types/react": "^19.0.8",
-    "eslint": "^9.19.0",
-    "typescript": "^5.7.3"
-  }
+	"name": "wanted-2025-2-challenge",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/himprover/wanted-2025-2-challenge.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/himprover/wanted-2025-2-challenge/issues"
+	},
+	"homepage": "https://github.com/himprover/wanted-2025-2-challenge#readme",
+	"dependencies": {
+		"next": "^13.5.8",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1"
+	},
+	"devDependencies": {
+		"@types/node": "^22.10.10",
+		"@types/react": "^19.0.8",
+		"eslint": "^9.19.0",
+		"typescript": "^5.7.3"
+	}
 }
